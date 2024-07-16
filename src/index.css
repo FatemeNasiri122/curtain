@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "ProximaNova";
-  src: url("../public/assests/font/ProximaNova-Regular.ttf");
+  src: url("/assets/fonts/ProximaNova-Regular.ttf");
 }
 
 @layer base {
